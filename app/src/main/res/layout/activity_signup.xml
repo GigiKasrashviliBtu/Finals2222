@@ -117,7 +117,7 @@
         android:layout_height="wrap_content"
         android:background="@drawable/buttonback"
         android:layout_marginTop="670sp"
-        margin android:layout_marginLeft="20sp"
+        android:layout_marginLeft="20sp"
         android:text="Go Back"
         android:textColor="@color/white"/>
 
