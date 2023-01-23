@@ -120,6 +120,6 @@
         android:layout_marginLeft="20sp"
         android:text="Go Back"
         android:textColor="@color/white"/>
-
+    
 
 </RelativeLayout>
